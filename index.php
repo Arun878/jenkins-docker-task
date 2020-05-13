@@ -1,12 +1,8 @@
 <h1>Welcome to webiste</h1>
-OK
-GG
-fourth
-5
-6
-[A[A[B[B
-7
-8
-9
-10
-11[A[B12
+Updated
+
+<?php
+
+print "<h1>OP</h1>" ;
+
+?>
